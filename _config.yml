@@ -24,13 +24,13 @@ repository               : "ckyu91/ckyu91.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Kuan Yu Chen"
+  pronouns         : "she/her"  
+  bio              : "Second Year Master Degree"
+  location         : "Taiwan"
+  employer         : "National Tsing Hua University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "tp6.ej04m391@gmail.com" 
 
   # Academic websites
   academia         : # URL
