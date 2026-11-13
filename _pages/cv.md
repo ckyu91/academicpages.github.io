@@ -42,6 +42,7 @@ Publications
 Talks
 ======
 * Differences in sentencing distribution under anchored scenarios: From individual to group simulation
+
   2026/11 Taiwan Forensic and Criminological Psychology Association
 
 Teaching
